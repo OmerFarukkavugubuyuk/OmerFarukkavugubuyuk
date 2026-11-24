@@ -23,8 +23,7 @@ name        : Omer Faruk Kavugubuyuk
 role        : Software Engineering Student, Mobile & Full-Stack Developer
 education   : Sam Houston State University (USA) + Firat University (Turkey)
 location    : Huntsville, TX
-current     : Mobile Developer Intern @ Movio
-focus       : Full-Stack Web | Cross-Platform Mobile | AI / LLM Integration
+focus       : Full-Stack | Cross-Platform Mobile | AI / LLM Integration
 languages   : Turkish (native), English (B2)
 status      : [ONLINE] building things
 ```
